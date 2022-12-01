@@ -1,10 +1,51 @@
+body{
+    background-color: black;
+}
+
+.grid{
+    /* place-items: center; */
+    margin: auto;
+    gap: 40px;
+}
+
+h2{
+    font-weight: thick;
+    font-size: 30px;
+    margin-top: 70px;
+    text-align: center;
+    color: red;
+    text-decoration:underline;
+}
+
+.imagename{
+    color: blue;
+    text-align: center;
+    margin: 10px;
+    font-weight: 900;
+}
 
 
+.top{
+    float: left;
+    margin: 30px;
+    margin-top: 80px;
+}
 
+.mid{
+    float: left;
+    margin: 30px;
+
+}
+
+.bottom{
+    float: left;
+    margin: 30px;
+}
 
 #image_1{
     width: 180px;
     height: 180px;
+    /* top: 0px; */
 }
 
 #image_2{
@@ -43,6 +84,6 @@
 }
 
 
-.apple{
+/* .apple{
     display: flex;
-}
+}*/  
