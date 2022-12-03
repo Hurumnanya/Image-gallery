@@ -43,8 +43,8 @@ change6.addEventListener ("click", (event) => {
 const change7 = document.getElementById("jewelleries");
 
 change7.addEventListener ("click", (event) => {
-    event.target.style.background = "white";
-    event.target.style.color = "red";
+    event.target.style.background = "magenta";
+    event.target.style.color = "white";
 });
 
 const change8 = document.getElementById("phone");

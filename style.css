@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    /* background-color: black; */
 }
 
 .grid{
@@ -82,8 +82,3 @@ h2{
     width: 180px;
     height: 180px;
 }
-
-
-/* .apple{
-    display: flex;
-}*/  
